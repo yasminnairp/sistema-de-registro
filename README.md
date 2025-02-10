@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema, debes poner: 
 
-'''ipm poner react'''
+'''ipm poner react''''
